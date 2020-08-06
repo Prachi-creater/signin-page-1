@@ -1,0 +1,18 @@
+button[type="Sign in"] {
+    color: white;
+    background: black;
+    border: none;
+    padding: 10px 40px;
+}
+p {
+    font-size: 14px;
+    text-align: center;
+}
+.picright {
+    background-color: gray;
+}
+#field {
+    background: gray;
+    border: 0;
+}
+
